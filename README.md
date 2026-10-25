@@ -16,6 +16,7 @@ Instead of manually typing scale factors or dragging small sliders, quickly sele
 
 \## Features
 
+<img width="531" height="296" alt="image" src="https://github.com/user-attachments/assets/cd41a7cd-9a72-4e9c-b1f5-3ff6fd7e9d3e" />
 
 
 \- \*\*Quick Scale Presets:\*\* Instant scaling buttons for `x0.25`, `x0.5`, `x0.75`, `x1`, `x1.25`, `x1.5`, `x2`, and `x4`.
